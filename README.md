@@ -75,9 +75,10 @@ PROJECT_3
 
 Mukul Chakravorty
 
-|Aspiring Data Scientist | Machine Learning Engineer
+Aspiring Data Scientist | Machine Learning Engineer
 
 Passionate about building data-driven solutions using
 Python, Machine Learning, SQL, Power BI, and Streamlit.
+
 Interested in Predictive Analytics, Data Visualization,
 and End-to-End Machine Learning Projects.
