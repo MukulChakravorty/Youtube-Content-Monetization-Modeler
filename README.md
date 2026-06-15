@@ -74,7 +74,8 @@ PROJECT_3
 ## Author
 
 Mukul Chakravorty
-Aspiring Data Scientist | Machine Learning Engineer
+
+|Aspiring Data Scientist | Machine Learning Engineer
 
 Passionate about building data-driven solutions using
 Python, Machine Learning, SQL, Power BI, and Streamlit.
