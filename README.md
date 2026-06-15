@@ -7,6 +7,13 @@ Content Monetization Modeler is a Machine Learning web application that predicts
 Users can provide video statistics such as views, likes, comments, watch time, subscribers, category, device type, country, and upload day to estimate potential ad revenue.
 
 ---
+## Live Demo
+
+Try the deployed application here:
+
+🔗 https://youtube-content-monetization-modeler.streamlit.app/
+
+The application allows users to input YouTube engagement metrics and predict advertisement revenue using a Machine Learning model.
 
 ## Features
 
